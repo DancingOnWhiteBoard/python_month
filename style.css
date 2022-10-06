@@ -4,6 +4,10 @@ h1{
   background-color:yellow;
 }
 
+h2{
+  border:solid 2px 333;
+}
+
 p{
   font-size:130%;
 }
